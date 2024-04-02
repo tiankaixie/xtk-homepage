@@ -1,8 +1,8 @@
-export const THEME_CONFIG: App.Locals['config'] = {
+export const THEME_CONFIG: App.Locals["config"] = {
   /** blog title */
-  title: "活版印字",
+  title: "如焰尋香城",
   /** your name */
-  author: "Typography",
+  author: "Tiankai Xie",
   /** website description */
   desc: "Rediscory the beauty of typography",
   /** your deployed domain */
@@ -14,21 +14,21 @@ export const THEME_CONFIG: App.Locals['config'] = {
   /** your socials */
   socials: [
     {
-      name: "github",
-      href: "https://github.com/moeyua/astro-theme-typography",
+      name: "school",
+      href: "https://scholar.google.com/citations?user=iGRSrJUAAAAJ&hl=en&inst=1960582506653781529&oi=ao",
     },
     {
-      name: "rss",
-      href: "/atom.xml",
+      name: "github",
+      href: "https://github.com/tiankaixie",
+    },
+    {
+      name: "instagram",
+      href: "https://www.instagram.com/tiankaixie/",
     },
     {
       name: "twitter",
-      href: "https://github.com/moeyua/astro-theme-typography",
+      href: "https://twitter.com/tiankaixie",
     },
-    {
-      name: "mastodon",
-      href: "https://github.com/moeyua/astro-theme-typography",
-    }
   ],
   /** your header info */
   header: {
@@ -36,6 +36,14 @@ export const THEME_CONFIG: App.Locals['config'] = {
   },
   /** your navigation links */
   navs: [
+    {
+      name: "About",
+      href: "/about",
+    },
+    {
+      name: "CV",
+      href: "/cv",
+    },
     {
       name: "Posts",
       href: "/posts/page/1",
@@ -46,16 +54,9 @@ export const THEME_CONFIG: App.Locals['config'] = {
     },
     {
       name: "Categories",
-      href: "/categories"
-    },
-    {
-      name: "About",
-      href: "/about",
+      href: "/categories",
     },
   ],
   /** your category name mapping, which the `path` will be shown in the url */
-  category_map: [
-    {name: "胡适", path: "hu-shi"},
-  ]
-}
-
+  category_map: [{ name: "胡适", path: "hu-shi" }],
+};
