@@ -5,6 +5,10 @@ categories: ["Richard Hamming", "Good Read", "Chinese"]
 description: "This is a Chinese version of the transcript 'You and Your Research' by Richard Hamming in 1995. The idea is to inspire people who will be, or has been dedicated to RESEARCH, especially for those people who feel lost in terms of the substantial meaning of what they are doing, and yet still wonder how to be GREAT."
 ---
 
+This is a Chinese version of the transcript 'You and Your Research' by Richard Hamming in 1995. The idea is to inspire people who will be, or has been dedicated to RESEARCH, especially for those people who feel lost in terms of the substantial meaning of what they are doing, and yet still wonder how to be GREAT.
+
+# Original Transcript
+
 很荣幸能在这里。我怀疑我是否能够达到这个介绍的水平。我演讲的题目是“你与你的研究”。它不是关于管理研究，而是关于你个人如何进行研究。我本可以演讲另一个主题，但实际上不是，我的演讲是关于你的。我不是在谈论普通的、平庸的研究；我谈论的是伟大的研究。为了描述伟大的研究，我会偶尔提到诺贝尔奖级别的工作。它不一定要获得诺贝尔奖，但我指的是那些我们认为非常重要的事物。比如相对论，香农的信息理论，以及许多杰出的理论——这就是我所谈论的类型。
 
 那么，我是如何开始进行这项研究的呢？在洛斯阿拉莫斯，我被请来负责计算机设备的运行，这些设备是其他人已经启动的，以便科学家和物理学家们可以继续他们的工作。我意识到我只是一个替罪羊。我看到，虽然我在生理上与他们一样，但他们与我不同。坦率地说，我感到羡慕。我想知道为什么他们与我如此不同。我近距离看到了费曼，我见到了费米和特勒。我见到了奥本海默。我见到了汉斯·贝特：他是我的上司。我见到了许多非常有能力的人。我对那些做成了事情和可能做成了事情之间的区别产生了浓厚的兴趣。
